@@ -1,0 +1,1 @@
+#Escribe una función generadora que devuelva una palabra de un fichero cada vez que es llamada.
